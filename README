@@ -1,0 +1,7 @@
+Einfache Galerie mit galleriffic-jquery. 
+
+Die js Dateien extern downloaden und ins Verzeichnis js kopieren.
+config.inc.php.orig in config.inc.php umbennenen und Passwort ändern
+Bilder in den Ordner Galerie in ein eigenes Verzeichnis mit dem Namen der
+Galerie kopieren und create.php Skript aufrufen.
+
